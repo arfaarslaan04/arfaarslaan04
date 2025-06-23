@@ -61,7 +61,6 @@ Collaborated in a 10-member team to build a live project management and resource
 ## 📢 Let's Connect
 
 * Email: [arfa.arslaan@gmail.com](mailto:arfa.arslaan@gmail.com)
-* LinkedIn: [linkedin.com/in/arfa-arslaan](https://www.linkedin.com/in/arfa-arslaan)
 * Location: Lahore, Pakistan
 
 ---
